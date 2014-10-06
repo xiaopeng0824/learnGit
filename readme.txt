@@ -10,3 +10,4 @@ Test 1.
 t1:Test Branch.
 t2:Test Branch.
 Test: stash.
+I don't know what is stash.
